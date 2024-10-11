@@ -5,6 +5,11 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face 
+{
+  font-family: 'dapik';
+  src: url('font/Silvertones.otf');
+}
 
 body {
   margin: 40px 0;
